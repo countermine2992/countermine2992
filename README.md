@@ -5,7 +5,7 @@
 </p>
 
 
-- I'm a **Learner** | **Programmer** | **Maths Nerd**
+- I'm a **Learner** | **Programmer** | **Maths Nerd** | **AI Coder**
 - About me :- **Maths Coder / Vibecode Data  | University of Kent | Kaggle competition contributor** | **ML & AI / Complex Mathematician Enthusiast**
 - Currently **Working studying at Kent University and coding for games and vibe coding in my spare time**
 - Willing to contribute more and more in **Data Science / Pure Maths and Machine Learning Related projects**
